@@ -9,7 +9,7 @@ function decimalToBinary(num) {
 			quo=num/2;
 			num=quo;
 		}
-  return arr;
+  console.log(arr);
 }
 
 window.decimalToBinary = decimalToBinary;
