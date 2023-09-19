@@ -14,7 +14,7 @@ function decimalToBinary(num) {
 		{
 			res+=arr[i];
 		}
-	console.log(res);
+	console.log(Number(res));
 	return res;
 }
 
