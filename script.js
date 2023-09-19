@@ -1,7 +1,7 @@
 function decimalToBinary(num) {
   //Write you code here
 	let arr=[];
-	string res="";
+	var res="";
 	var quo=num;
 	while(quo!=0)
 		{
